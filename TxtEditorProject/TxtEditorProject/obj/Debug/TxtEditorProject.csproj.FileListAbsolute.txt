@@ -1,0 +1,9 @@
+C:\Users\windows10\Desktop\TxtEditorProject\TxtEditorProject\bin\Debug\TxtEditorProject.exe.config
+C:\Users\windows10\Desktop\TxtEditorProject\TxtEditorProject\bin\Debug\TxtEditorProject.exe
+C:\Users\windows10\Desktop\TxtEditorProject\TxtEditorProject\bin\Debug\TxtEditorProject.pdb
+C:\Users\windows10\Desktop\TxtEditorProject\TxtEditorProject\obj\Debug\TxtEditorProject.csprojResolveAssemblyReference.cache
+C:\Users\windows10\Desktop\TxtEditorProject\TxtEditorProject\obj\Debug\TxtEditorProject.Form1.resources
+C:\Users\windows10\Desktop\TxtEditorProject\TxtEditorProject\obj\Debug\TxtEditorProject.Properties.Resources.resources
+C:\Users\windows10\Desktop\TxtEditorProject\TxtEditorProject\obj\Debug\TxtEditorProject.csproj.GenerateResource.Cache
+C:\Users\windows10\Desktop\TxtEditorProject\TxtEditorProject\obj\Debug\TxtEditorProject.exe
+C:\Users\windows10\Desktop\TxtEditorProject\TxtEditorProject\obj\Debug\TxtEditorProject.pdb
